@@ -1,0 +1,15 @@
+body{
+    background-color:azure;
+    color: rebeccapurple;
+}
+h2{
+    color: black;
+}
+.titulo_secao{
+    color: azure;
+}
+#nome_cursista{
+    font-weight: bold;
+    font-size: 30px;
+    color: blue;
+}
